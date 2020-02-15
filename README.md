@@ -1,6 +1,6 @@
 # IC_Engineer_Study
  Recording of daily study in IC Design&Verification&Automation
-# 2020-02-15_Sync_Async_Reset
+# 2020-02-15_Sync_Async
  Synchronous Clocks vs. Asynchronous Clocks  
  Sequential Logic (Circuit) vs. Combinational Logic (Circuit)  
  Synchronous Sequential Logic vs. Asynchronous Sequential Logic  
