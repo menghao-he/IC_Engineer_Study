@@ -6,5 +6,5 @@
  Synchronous Sequential Logic vs. Asynchronous Sequential Logic  
  Synchronous Circuit vs. Asynchronous Circuit  
  Synchronous Reset vs. Asynchronous Reset   
- Synchronized Asynchronous Reset--a.k.a Asynchronous Reset and Synchronous Release  
+ Synchronized Asynchronous Reset a.k.a Asynchronous Reset and Synchronous Release  
  
