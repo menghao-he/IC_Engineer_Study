@@ -8,6 +8,6 @@
  Synchronous Reset vs. Asynchronous Reset   
  Synchronized Asynchronous Reset a.k.a Asynchronous Reset and Synchronous Release  
  Glitch Filtering (assume negative reset, low voltage level)  
-# 2020-02-16_Cross_CLK_Domains
-
- 
+# 2020-02-16_Cross_CLK_Domains  
+ Metastability  
+ Asynchronous Circuit Design Techniques  
