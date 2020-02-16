@@ -7,4 +7,5 @@
  Synchronous Circuit vs. Asynchronous Circuit  
  Synchronous Reset vs. Asynchronous Reset   
  Synchronized Asynchronous Reset a.k.a Asynchronous Reset and Synchronous Release  
+ Glitch Filtering (assume negative reset, low voltage level)  
  
